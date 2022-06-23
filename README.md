@@ -1,4 +1,4 @@
-## Important papers and impelimentation
+## Important papers and implementation
 
 A. Graves, A. Mohamed, and G. Hinton, “Speech recognition with
 deep recurrent neural networks,” in Proc. ICASSP, Vancouver, 2013.
